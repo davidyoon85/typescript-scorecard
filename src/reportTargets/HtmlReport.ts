@@ -1,4 +1,4 @@
-import fs from fs;
+import fs from 'fs';
 import { OutputTarget } from '../Summay';
 
 export class HtmlReport implements OutputTarget {
